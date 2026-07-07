@@ -157,6 +157,15 @@ li {
   font-size: 0.98rem;
 }
 
+.final-quote {
+  color: #7b6ff0;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  font-size: 0.78rem;
+  text-align: center;
+  margin-top: 16px;
+}
+
 .welcome-modal {
   position: fixed;
   inset: 0;
